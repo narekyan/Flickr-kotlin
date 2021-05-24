@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Flickr using Kotlin</string>
+    <string name="search_hint">for ex. cat</string>
+</resources>
